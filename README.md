@@ -35,7 +35,7 @@ git clone https://github.com/Koolana/CV-ImageSegmentation.git
 
 Для запуска обучения и проверки модели на датасете необходимо сначала скопировать датасет в папку **datasets**, а далее взаимодействовать через блокнот Jupyter.
 
-Подробное описание работы с примерами представлено в [блокноте Jupyter](dFPN-Segmentation.ipynb)
+Подробное описание работы с примерами представлено в [блокноте Jupyter](FPN-Segmentation.ipynb)
 
 ## Датасет
 
