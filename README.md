@@ -83,3 +83,5 @@ git clone https://github.com/Koolana/CV-ImageSegmentation.git
 <img width="372" alt="6" src="https://user-images.githubusercontent.com/90565598/169666154-ca8a291c-c1b4-4466-8798-232c47080fd1.png">
 
 <img width="362" alt="7" src="https://user-images.githubusercontent.com/90565598/169666194-be90d078-d7f3-4fdd-bb1a-0de06bfe6807.png">
+
+Авторы работы: [Андрейчик Николай](https://github.com/Koolana) и [Шутова Ксения](https://github.com/Renianida).
